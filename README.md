@@ -87,4 +87,4 @@ uvicorn main:app --reload
 
 ## Author
 
-**Ziad Ghazaly** – [GitHub](https://github.com/Ziad-ghazaly) | [LinkedIn](https://www.linkedin.com/in/ziadghazaly)
+**Ziad Ghazaly** – [GitHub](https://github.com/Ziad-ghazaly) | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
